@@ -79,6 +79,7 @@ Particular attention is given to avoiding target leakage and diagnosing multicol
 <img width="485" height="347" alt="image" src="https://github.com/user-attachments/assets/25c3c307-e34d-4235-a824-14f7b17be061" />
 
 _Correlation analysis identifies relationships among weather variables and highlights the strong association between temperature measures that motivated later multicollinearity diagnostics._
+
 ---
 
 # Key Findings
