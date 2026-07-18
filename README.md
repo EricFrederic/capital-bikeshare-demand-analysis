@@ -58,7 +58,7 @@ The notebook follows a complete business analytics workflow:
 
 ---
 
-# Methodology
+# Analytical Approach
 
 The project uses multiple linear regression to model total daily bicycle demand.
 
@@ -118,7 +118,7 @@ Exploratory diagnostics revealed severe multicollinearity between **Temperature*
 
 _The near-perfect correlation between Temperature and Feels Like Temperature indicates substantial multicollinearity, suggesting that both variables provide largely redundant information._
 
-## Model Simplification Preserved Performance
+## Simplifying the Model Preserved Predictive Accuracy
 
 After removing the redundant predictor, the reduced model maintained nearly identical predictive performance while producing substantially more stable coefficient estimates.
 
@@ -162,18 +162,6 @@ Based on the analysis, Capital Bikeshare could:
 | Model | Multiple Linear Regression |
 | Diagnostics | Residual Analysis, VIF, Model Comparison |
 | Evaluation Metrics | R², MAE, RMSE |
-
----
-
-# Tools Used
-
-- Python
-- Pandas
-- NumPy
-- Plotly
-- scikit-learn
-- Statsmodels
-- Jupyter Notebook
 
 ---
 
