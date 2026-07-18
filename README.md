@@ -94,8 +94,6 @@ Temperature and weather conditions are among the strongest predictors of daily r
 
 <img width="485" height="355" alt="image" src="https://github.com/user-attachments/assets/f9d70ac7-8ef3-4073-9de4-a024feab91a2" />
 
-_Weather has a substantial impact on daily ridership, particularly among casual riders. Boxplots comparing ridership under favorable and unfavorable weather conditions show a pronounced decline in casual usage during poor weather, while registered riders exhibit more consistent travel patterns. This suggests recreational trips are more weather-sensitive than commuter trips, providing valuable insight for demand forecasting and operational planning._
-
 ## Seasonality Matters
 
 Demand varies considerably across seasons and months, demonstrating predictable cyclical patterns that can support operational planning.
