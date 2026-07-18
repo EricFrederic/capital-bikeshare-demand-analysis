@@ -76,6 +76,8 @@ Major analytical techniques include:
 
 Particular attention is given to avoiding target leakage and diagnosing multicollinearity to ensure the resulting model is both statistically sound and practically interpretable.
 
+<img width="485" height="347" alt="image" src="https://github.com/user-attachments/assets/25c3c307-e34d-4235-a824-14f7b17be061" />
+
 ---
 
 # Key Findings
