@@ -94,6 +94,8 @@ Temperature and weather conditions are among the strongest predictors of daily r
 
 <img width="485" height="355" alt="image" src="https://github.com/user-attachments/assets/f9d70ac7-8ef3-4073-9de4-a024feab91a2" />
 
+_Weather conditions have a significant influence on daily bicycle demand. Days with unfavorable weather consistently exhibit lower ridership than days with favorable conditions, reinforcing the importance of incorporating weather variables into demand forecasting and operational planning._
+
 ## Seasonality Matters
 
 Demand varies considerably across seasons and months, demonstrating predictable cyclical patterns that can support operational planning.
