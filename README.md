@@ -88,6 +88,13 @@ _Correlation analysis identifies relationships among weather variables and highl
 
 The final regression model explains approximately **81% of the variation in daily bicycle demand (R² ≈ 0.81)** while maintaining strong predictive accuracy on unseen data.
 
+
+<img width="479" height="357" alt="image" src="https://github.com/user-attachments/assets/df0059df-cf7e-4859-b08c-1286338db35e" />
+
+_The close alignment between observed and predicted ridership demonstrates that the final regression model effectively captures the primary factors influencing daily bicycle demand, explaining approximately 81% of the variation in daily rentals.
+_
+
+
 ## Weather Drives Demand
 
 Temperature and weather conditions are among the strongest predictors of daily ridership, confirming that environmental conditions substantially influence bicycle usage.
