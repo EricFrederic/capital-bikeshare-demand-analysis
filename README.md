@@ -92,8 +92,9 @@ The final regression model explains approximately **81% of the variation in dail
 
 Temperature and weather conditions are among the strongest predictors of daily ridership, confirming that environmental conditions substantially influence bicycle usage.
 
-<img width="490" height="359" alt="image" src="https://github.com/user-attachments/assets/aa400277-104a-4c34-9b6b-9f606f837662" /> <img width="485" height="355" alt="image" src="https://github.com/user-attachments/assets/f9d70ac7-8ef3-4073-9de4-a024feab91a2" />
+<img width="485" height="355" alt="image" src="https://github.com/user-attachments/assets/f9d70ac7-8ef3-4073-9de4-a024feab91a2" />
 
+_Weather has a substantial impact on daily ridership, particularly among casual riders. Boxplots comparing ridership under favorable and unfavorable weather conditions show a pronounced decline in casual usage during poor weather, while registered riders exhibit more consistent travel patterns. This suggests recreational trips are more weather-sensitive than commuter trips, providing valuable insight for demand forecasting and operational planning._
 
 ## Seasonality Matters
 
