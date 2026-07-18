@@ -113,6 +113,7 @@ _Average daily Capital Bikeshare demand exhibits clear seasonal patterns, with r
 
 Exploratory diagnostics revealed severe multicollinearity between **Temperature** and **Feels Like Temperature**.
 
+
 <img width="487" height="359" alt="image" src="https://github.com/user-attachments/assets/3d64199f-c0c6-46da-a1ae-b48cad67e4ef" />
 
 _The near-perfect correlation between Temperature and Feels Like Temperature indicates substantial multicollinearity, suggesting that both variables provide largely redundant information._
