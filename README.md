@@ -115,9 +115,18 @@ _Average daily Capital Bikeshare demand exhibits clear seasonal patterns, with r
 
 Exploratory diagnostics revealed severe multicollinearity between **Temperature** and **Feels Like Temperature**.
 
+<img width="487" height="359" alt="image" src="https://github.com/user-attachments/assets/3d64199f-c0c6-46da-a1ae-b48cad67e4ef" />
+
+_The near-perfect correlation between Temperature and Feels Like Temperature indicates substantial multicollinearity, suggesting that both variables provide largely redundant information._
+
+## Model Simplification Preserved Performance
+
 After removing the redundant predictor, the reduced model maintained nearly identical predictive performance while producing substantially more stable coefficient estimates.
 
-<img width="485" height="356" alt="image" src="https://github.com/user-attachments/assets/dbf8ed1c-383f-4e7a-8250-3468fed6232f" />
+<img width="484" height="361" alt="image" src="https://github.com/user-attachments/assets/e9769bd0-8245-4b5c-b509-0345d55ffb5d" />
+
+_After removing the redundant temperature predictor to eliminate multicollinearity, the reduced regression model maintained nearly identical predictive performance. MAE and RMSE increased only slightly, demonstrating that the simplified model remained highly effective while improving interpretability._
+
 
 ---
 
