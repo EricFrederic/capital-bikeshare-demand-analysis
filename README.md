@@ -5,6 +5,10 @@
 
 ---
 
+# Executive Summary
+
+Developed a multiple linear regression model to predict Capital Bikeshare demand using weather and calendar variables. The final model explained approximately 81% of the variation in daily ridership while identifying weather and seasonality as the primary demand drivers. After diagnosing and resolving multicollinearity, a simplified model achieved nearly identical predictive performance with improved interpretability.
+
 # Business Problem
 
 Capital Bikeshare must anticipate fluctuations in daily bicycle demand to ensure sufficient bicycle availability, optimize station capacity, and support operational planning. Understanding how weather, seasonality, holidays, and calendar effects influence ridership enables more efficient resource allocation and improves the customer experience.
