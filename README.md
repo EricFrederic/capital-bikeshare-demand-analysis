@@ -94,11 +94,15 @@ Temperature and weather conditions are among the strongest predictors of daily r
 
 Demand varies considerably across seasons and months, demonstrating predictable cyclical patterns that can support operational planning.
 
+<img width="488" height="359" alt="image" src="https://github.com/user-attachments/assets/23c6eeaf-9a44-4993-832a-63fa6275d6aa" />
+
 ## Multicollinearity Was Successfully Addressed
 
 Exploratory diagnostics revealed severe multicollinearity between **Temperature** and **Feels Like Temperature**.
 
 After removing the redundant predictor, the reduced model maintained nearly identical predictive performance while producing substantially more stable coefficient estimates.
+
+<img width="485" height="356" alt="image" src="https://github.com/user-attachments/assets/dbf8ed1c-383f-4e7a-8250-3468fed6232f" />
 
 ---
 
