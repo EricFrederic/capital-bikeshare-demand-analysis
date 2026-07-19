@@ -80,6 +80,15 @@ Major analytical techniques include:
 
 Particular attention is given to avoiding target leakage and diagnosing multicollinearity to ensure the resulting model is both statistically sound and practically interpretable.
 
+### Catching Target Leakage
+
+An initial baseline model using registered and casual rider counts as predictors 
+produced an R² of nearly 1.00 — an unrealistic result caused by the fact that 
+these two variables sum directly to the target variable (COUNT = REGISTERED + 
+CASUAL). Recognizing and removing this leakage was a necessary step before 
+legitimate predictive modeling could begin, resulting in the interpretable 
+81% model reported above.
+
 <img width="485" height="347" alt="image" src="https://github.com/user-attachments/assets/25c3c307-e34d-4235-a824-14f7b17be061" />
 
 _Correlation analysis identifies relationships among weather variables and highlights the strong association between temperature measures that motivated later multicollinearity diagnostics._
